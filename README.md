@@ -10,3 +10,6 @@
 **Day 3** - Today was a pure focus on Flex Box and the different attributes that form part of it. I
             looked at more complex use cases for align-items and justify-content, including looking at
             how to better layout the page taking the x and y axis into account. There was also an introduction to small CSS interactivity inlcuding the hover psuedo code and creating text-shadows and background gradients. The capstone project for the day was to build a birthday website with an image of a gift - when the user would hover over the gif they would be presented with a GIF.
+
+**Day 4** - The course introduced us to JavaScript. The main focus was learning how variables work
+            and how we can use DOM manipulation to change the state of the website. We were also introduced to basic datatypes such as string and number. By using the Console and console.log() function, I was able to debug my code and analyse what values were being returned. With this new knowledge, I created the capstone project of the day which was to create a person counter that had an increment button and a save button. One function incremented the counter element on the page and the save() function would save the state in another element that tracked the count.
