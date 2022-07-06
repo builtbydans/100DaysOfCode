@@ -13,3 +13,9 @@
 
 **Day 4** - The course introduced us to JavaScript. The main focus was learning how variables work
             and how we can use DOM manipulation to change the state of the website. We were also introduced to basic datatypes such as string and number. By using the Console and console.log() function, I was able to debug my code and analyse what values were being returned. With this new knowledge, I created the capstone project of the day which was to create a person counter that had an increment button and a save button. One function incremented the counter element on the page and the save() function would save the state in another element that tracked the count.
+
+**Day 5** - As we delve deeper into JS, the course then forces you to apply the learning thus far
+            in the last 5 days by building a game score counter. This is built from scratch, including
+            the UI. I started the project by breaking the main functions of the program into small tasks.
+            I first started with creating the UI, so focussing on the CSS and HTML structure, making sure
+            I am using id's and classes correctly. Then, with styling I used Flexbox and made sure that I followed the Figma design that was given to us. Finally, I created the JavaScript functions to increment the game score and as part of the stretch goal, I created a reset button which essentially reset the count variable and changed the DOM elements back to '0'.
