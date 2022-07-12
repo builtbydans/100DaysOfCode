@@ -19,3 +19,6 @@
             the UI. I started the project by breaking the main functions of the program into small tasks.
             I first started with creating the UI, so focussing on the CSS and HTML structure, making sure
             I am using id's and classes correctly. Then, with styling I used Flexbox and made sure that I followed the Figma design that was given to us. Finally, I created the JavaScript functions to increment the game score and as part of the stretch goal, I created a reset button which essentially reset the count variable and changed the DOM elements back to '0'.
+
+**Day 6** - Deep dive into JavaScript today working on the capstone prokject 'Blackjack'. Ths brought together all the previous learnings including
+            DOM manipulation, variables and introduced me to objects, callback functions and conditionals. The objective of the game was to render Blackjack to the client, which consisted of a button to generate a new card which calls a function that uses the Math() library. We then looked at using arrays to store the values of the card and then using a for loop to go through the array and send the values to the sum variable, which then would output the correct action depending on the score.
